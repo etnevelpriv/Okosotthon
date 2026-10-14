@@ -1,0 +1,14 @@
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/bin/Debug/net8.0/Okosotthon
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/bin/Debug/net8.0/Okosotthon.deps.json
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/bin/Debug/net8.0/Okosotthon.runtimeconfig.json
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/bin/Debug/net8.0/Okosotthon.dll
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/bin/Debug/net8.0/Okosotthon.pdb
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.GeneratedMSBuildEditorConfig.editorconfig
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.AssemblyInfoInputs.cache
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.AssemblyInfo.cs
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.csproj.CoreCompileInputs.cache
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.dll
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/refint/Okosotthon.dll
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.pdb
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/Okosotthon.genruntimeconfig.cache
+/home/etnevel/Suli/Desktop_App/Okosotthon/Okosotthon/obj/Debug/net8.0/ref/Okosotthon.dll
